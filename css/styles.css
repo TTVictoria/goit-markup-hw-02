@@ -69,53 +69,14 @@ cursor: pointer;}
 .button:hover {background-color: #404BBF;}
 .button:focus {background-color: #404BBF;}
 
-.h-strategy {
+.h-aboutus {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;}
 
-.p-strategy {
-line-height: 1.5;
-font-size: 16px;
-letter-spacing: 0.02em;
-color: #434455;}
-
-.h-punctuality {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;}
-
-.p-punctuality {
-line-height: 1.5;
-font-size: 16px;
-letter-spacing: 0.02em;
-color: #434455;}
-
-.h-diligence {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;}
-
-.p-diligence {
-line-height: 1.5;
-font-size: 16px;
-letter-spacing: 0.02em;
-color: #434455;}
-
-.h-technologies {
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2e2f42;}
-
-.p-technologies {
+.p-aboutus {
 line-height: 1.5;
 font-size: 16px;
 letter-spacing: 0.02em;
