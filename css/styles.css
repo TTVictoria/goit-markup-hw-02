@@ -125,3 +125,21 @@ color: #2e2f42;}
 .page-nav a.link:focus {
     color: #404bbf;
 }
+
+.ourteam {
+    background-color: #F4F4FD
+}
+
+.h-ourteam {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.productdesigner {
+    background-color: #FFFFFF;
+}
+
