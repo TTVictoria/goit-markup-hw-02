@@ -121,14 +121,13 @@ font-size: 16px;
 letter-spacing: 0.02em;
 color: #434455;}
 
-/* Стиль для футера */
+/* Стилі для футера */
 .footer {
     background-color: #2e2f42;
-    padding: 20px;
 }
 
-/* Стиль для логотипу в футері */
-.logo-footer {
+/* Стилі для логотипу у футері */
+.footer-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -138,14 +137,19 @@ color: #434455;}
     color: #4d5ae5;
 }
 
-/* Стиль для тексту в логотипі */
-.logo-footer span {
+/* Стилі для тексту у логотипі (тег span) */
+.footer-logo-text {
     color: #f4f4fd;
 }
 
-/* Стиль для параграфа в футері */
+/* Стилі для параграфу у футері */
 .footer-paragraph {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+/* Видалені непотрібні стилі */
+.footer a {
+    /* Видалена непотрібна властивість */
 }
