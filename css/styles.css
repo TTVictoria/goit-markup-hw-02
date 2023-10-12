@@ -11,7 +11,7 @@ background-color: #ffffff;
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.3em;
     text-transform: uppercase;
 }
 
@@ -21,8 +21,8 @@ background-color: #ffffff;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.54px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 
 }
@@ -33,7 +33,7 @@ background-color: #ffffff;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
-    letter-spacing: 0,32px;
+    letter-spacing: 0.32px;
 }
 .page-nav:hover {color: #4D5AE5;}
 .page-nav:active {color: #404BBF;}
@@ -41,13 +41,13 @@ background-color: #ffffff;
 .address {
 font-style: normal;
 line-height: 1.5;
-letter-specing: 0.02em
+letter-specing: 0.02em;
 color: #434455;}
+
 .address:hover{color: #404bbf;}
 .address:focus{color: #404bbf;}
 
-.section-effective {
-background-color: #2e2f42;}
+.section-effective {background-color: #2e2f42;}
 
 .h-effective {
 font-size: 56px;
