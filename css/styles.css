@@ -48,7 +48,9 @@ color: #434455;}
 .kontakt:hover {color: #404bbf;}
 .kontakt:focus {color: #404bbf;}
 
-.section-effective {background-color: #2e2f42;}
+.section-effective {
+    background-color: #2e2f42;
+}
 
 .h-effective {
 font-size: 56px;
