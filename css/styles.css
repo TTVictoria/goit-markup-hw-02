@@ -120,3 +120,32 @@ line-height: 1.5;
 font-size: 16px;
 letter-spacing: 0.02em;
 color: #434455;}
+
+/* Стиль для футера */
+.footer {
+    background-color: #2e2f42;
+    padding: 20px;
+}
+
+/* Стиль для логотипу в футері */
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+/* Стиль для тексту в логотипі */
+.logo-footer span {
+    color: #f4f4fd;
+}
+
+/* Стиль для параграфа в футері */
+.footer-paragraph {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
