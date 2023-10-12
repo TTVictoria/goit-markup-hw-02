@@ -1,4 +1,4 @@
-body {
+.body-class {
 font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #ffffff;
@@ -38,6 +38,7 @@ background-color: #ffffff;
 .page-nav:hover {color: #4D5AE5;}
 .page-nav:active {color: #404BBF;}
 
+.address {font-style: normal;}
 .kontakt {
 font-style: normal;
 line-height: 1.5;
