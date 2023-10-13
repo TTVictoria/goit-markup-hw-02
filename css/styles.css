@@ -40,6 +40,7 @@ background-color: #ffffff;
 
 .nav-link a:hover {color: #404bbf;}
 .nav-link a:focus {color: #404bbf;}
+.nav-link {color: #2e2f42}
 
 .address {font-style: normal;}
 .kontakt {
