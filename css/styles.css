@@ -32,8 +32,8 @@ background-color: #ffffff;
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 2;
+    letter-spacing: 0.02em;
 }
 .page-nav:hover {color: #4D5AE5;}
 .page-nav:active {color: #404BBF;}
@@ -175,6 +175,5 @@ color: #2e2f42;}
     color: #ffffff;
 }
 
-link a:hover {color: #404bbf;}
-
-link a:focus {color: #404bbf;}
+.a {text-decoration: none;}
+.ul {list-style: none;}
