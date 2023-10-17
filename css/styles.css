@@ -35,6 +35,7 @@ body {
 .nav-link a:hover {color: #404bbf;}
 .nav-link a:focus {color: #404bbf;}
 .nav-link {
+    line-height: 1.5;
     color: #2e2f42;
     text-decoration: none;
 }
