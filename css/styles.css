@@ -1,4 +1,4 @@
-.body-class {
+.body {
 font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #ffffff;
@@ -13,44 +13,48 @@ background-color: #ffffff;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .logo-studio{
     color: #2e2f42;
-    font-family: "Raleway";
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-
-}
+    font-family: "Raleway";}
 
 .page-nav {
     color: var(--NAVY-BLUE, #2e2f42);
     font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
-    line-height: 2;
+    line-height: 1.5;
     letter-spacing: 0.02em;
+    list-style-type: none;
 }
 .page-nav:hover {color: #4D5AE5;}
 .page-nav:active {color: #404BBF;}
 
 .nav-link a:hover {color: #404bbf;}
 .nav-link a:focus {color: #404bbf;}
-.nav-link {color: #2e2f42}
+.nav-link {
+    color: #2e2f42;
+    text-decoration: none;
+}
 
-.address {font-style: normal;}
+.address {
+    font-style: normal;
+}
 .kontakt {
 font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;}
+color: #434455;
+}
 
 .kontakt:hover {color: #404bbf;}
 .kontakt:focus {color: #404bbf;}
+
+.ul-kontakt{
+    list-style-type: none;
+}
 
 .section-effective {
     background-color: #2e2f42;
@@ -104,6 +108,7 @@ color: #434455;}
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
 }
 
 /* Стилі для тексту у логотипі (тег span) */
@@ -139,6 +144,7 @@ text-decoration: none;}
 }
 
 .h-ourteam {
+    font-family: "Roboto";
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -154,13 +160,19 @@ text-decoration: none;}
 
 .productdesigner {
     background-color: #FFFFFF;
+    list-style-type: none;
 }
 
-.h-potfolio {font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+.hh-portfolio {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
+    }
 
 .p-portfolio {
     font-size: 16px;
@@ -179,3 +191,5 @@ text-decoration: none;}
 
  
 .ul {list-style: none;}
+.li-portfolio {list-style-type: none;}
+
